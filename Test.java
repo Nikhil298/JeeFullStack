@@ -1,8 +1,9 @@
 import java.util.*; 
 
-public class HelloJava {
+public class Test {
 	public static void main(String[] args) {
 		 Date d=new Date(); 
-	     System.out.println(d);  	
+	     System.out.println(d);
+	     System.out.println("e");
 	}
 }
